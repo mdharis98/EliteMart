@@ -42,31 +42,31 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 INSTALLATION 
 
 frontend dependencies
-"axios": "^1.8.4",
-"react": "^19.0.0",
-"react-dom": "^19.0.0",
-"react-router-dom": "^7.3.0",
-"react-toastify": "^11.0.5"
+axios, 
+react, 
+react-dom, 
+react-router-dom, 
+react-toastify
 
 
 admin dependencies
 
-"axios": "^1.8.4",
-"react": "^19.0.0",
-"react-dom": "^19.0.0",
-"react-router-dom": "^7.5.1",
-"react-toastify": "^11.0.5"
+axios, 
+react, 
+react-dom, 
+react-router-dom, 
+react-toastify, 
 
 backend dependencies
 
-"bcrypt": "^5.1.1",
-"cloudinary": "^2.6.0",
-"cors": "^2.8.5",
-"dotenv": "^16.5.0",
-"express": "^5.1.0",
-"jsonwebtoken": "^9.0.2",
-"mongoose": "^8.13.2",
-"multer": "^1.4.5-lts.2",
-"razorpay": "^2.9.6",
-"stripe": "^18.0.0",
-"validator": "^13.15.0"
+bcrypt, 
+cloudinary, 
+cors, 
+dotenv, 
+express, 
+jsonwebtoken, 
+mongoose, 
+multer, 
+razorpay, 
+stripe, 
+validator
