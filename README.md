@@ -42,7 +42,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 INSTALLATION 
 
 frontend dependencies
-
 "axios": "^1.8.4",
 "react": "^19.0.0",
 "react-dom": "^19.0.0",
