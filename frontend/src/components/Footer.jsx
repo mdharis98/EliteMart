@@ -30,7 +30,7 @@ const Footer = () => {
       </div>
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright 2025@ elitemart.com - All Right Reserved</p>
+        <p className='py-5 text-sm text-center'>Copyright 2025@ elitemart.com - All Right Reserved <a className='text-red-500 underline font-bold text-lg' href="https://elitemart-admin.onrender.com">Admin</a></p>
       </div>
     </div>
   )
